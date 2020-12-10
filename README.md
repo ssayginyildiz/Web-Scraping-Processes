@@ -1,7 +1,6 @@
-# Web-Scrapping-and-Selenium
- Web Kazıma ve NLP uygulamaları
+# Web-Scrapping
+ Web Kazıma uygulamaları
 
-# NLP_Natural-Language-Processing
-Doğal Dil İşleme Üzerine Çalışmalar ve Araştırmalar <br>
+
 
 ## Bazı Linkler 
