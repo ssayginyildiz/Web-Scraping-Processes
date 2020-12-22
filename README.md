@@ -1,6 +1,6 @@
 # Web-Scrapping
  Web Kazıma uygulamaları(10+ Site)<br>
 
-Bkm, Youtube, Twitter, haberler.com,  HepsiBurada, Vikipedi, Üniversite Bilgi Sistemi, Amazon, N11, Gitti Gidiyor, Medium
+Bkm, Youtube, Twitter, haberler.com,  HepsiBurada, Vikipedi, Üniversite Bilgi Sistemi, Amazon, N11, Gitti Gidiyor, Medium, Google Trends, Ekşi Sözlük
 
 ## Bazı Linkler 
