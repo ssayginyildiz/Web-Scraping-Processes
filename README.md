@@ -10,6 +10,6 @@
 3 => **Kariyer.net, indeed**, glassdoor <br>
 3 => epey, cimri, akakçe<br>
 2 => **getdaytrends, Google Trends**
-
+1 => şikayetvar.com
 
 ## Bazı Linkler 
