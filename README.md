@@ -1,4 +1,4 @@
-# Web-Scrapping
+# Web-Scraping
  Web Kazıma Uygulamaları(**20+ Site**)<br>
  
 Yazı Kaynağı => **haberler.com, Vikipedi , Medium, Ekşi Sözlük** <br>
