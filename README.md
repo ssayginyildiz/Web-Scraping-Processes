@@ -1,5 +1,5 @@
 # Web-Scrapping
- Web Kazıma uygulamaları(**20+ Site**)<br>
+ Web Kazıma Uygulamaları(**20+ Site**)<br>
  
 4 => **haberler.com, Vikipedi , Medium, Ekşi Sözlük** <br>
 6 => **Bkm**, dr, kitapyurdu, idefix, kitapseç, **kidega** <br>
