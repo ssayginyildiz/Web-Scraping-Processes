@@ -13,4 +13,5 @@ Günlük Veri => **getdaytrends, Google Trends, yandex hava durumu** <br>
 Ekstra => **Üniversite Bilgi Sistemi**<br>
 
 
-## Bazı Linkler 
+- Veri çekme işlemlerini bir otomasyona aktarmalı ve kullanışlı hale getirmeli.
+- Ancak yasal sorunlar başa dert :(
